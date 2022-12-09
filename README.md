@@ -1,1 +1,11 @@
 # blog-test
+
+<details>
+<summary><b>My section header in bold</b></summary>
+
+Any folded content here. It requires an empty line just above it.
+
+</details>
+
+<!-- This is commented out. -->
+
