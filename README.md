@@ -1,11 +1,7 @@
 # blog-test
 
-<details>
-<summary><b>My section header in bold</b></summary>
-
-Any folded content here. It requires an empty line just above it.
-
-</details>
-
-<!-- This is commented out. -->
+<!--date 2022-12-07 -->
+<!--tags tag1,tag2 -->
+<!--desc hello this is readme. -->
+<!--post default -->
 
