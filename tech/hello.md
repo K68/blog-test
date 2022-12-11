@@ -5,3 +5,5 @@ How to do this?
 <!--tags tag -->
 <!--desc this is tech hello. -->
 <!--post tech-hello -->
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
