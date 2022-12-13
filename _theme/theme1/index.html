@@ -11,11 +11,12 @@
     <link rel="apple-touch-icon apple-touch-icon-precomposed" href="favicon.png">
 </head>
 <body>
+    <div>theme1</div>
     <div data-th-utext="#{hello.world(${model.path})}"><h1>Let's GO!</h1></div>
     <div data-th-utext="${allTags}"></div>
     <div data-th-utext="${allFolders}"></div>
-    <p th:text="'Hello, ' + ${name} + '!'"></p>
-    <p th:text="'Hello, ' + ${model.path} + '!'"></p>
+    <p data-th-text="'Hello, ' + ${name} + '!'"></p>
+    <p data-th-text="'Hello, ' + ${model.path} + '!'"></p>
   
     <script src="main.js" type="text/javascript"></script>
 </body>
