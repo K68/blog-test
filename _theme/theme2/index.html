@@ -15,7 +15,7 @@
     <div data-th-utext="#{hello.world(${model.path})}"><h1>Let's GO!</h1></div>
     <div data-th-utext="${allTags}"></div>
     <div data-th-utext="${allFolders}"></div>
-    <div data-th-utext="${postsJson}"></div>
+    <div data-th-utext="$postsJson"></div> <!-- error test -->
     <p data-th-text="'Hello, ' + ${name} + '!'"></p>
     <p data-th-text="'Hello, ' + ${model.path} + '!'"></p>
   
