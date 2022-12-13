@@ -5,3 +5,4 @@ Just do it!
 <!--tags tag1,tag2 -->
 <!--desc this is life more yes. -->
 <!--post life-more-yes -->
+<!--tpl product -->
