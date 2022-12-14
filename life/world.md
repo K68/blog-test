@@ -5,3 +5,5 @@ bingo?
 <!--tags tag0 -->
 <!--desc this is life world. -->
 <!--post life-world -->
+
+<!--redirect https://www.bing.com -->
