@@ -26,4 +26,4 @@
 <!--forward     /file/*param4/:param5       /*param4/:param5 -->
 <!--forward     /file/:param6/*param7       /:param6/*param7 -->
 
-<!--redirect /rd/to/:site https://www.:site -->
+<!--redirect /rd/to/:site https://www.:site?q=AI -->
