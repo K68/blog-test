@@ -10,12 +10,12 @@
 <!--map key10 value10 -->
 
 <!--forward     /files/main                 /?theme=theme2 -->
-<!--forward     /file/:param1               /post/:param1 -->
+<!--forward     /file/:post                 /post/:post -->
 <!--forward     /files/categories           /posts/folders -->
 <!--forward     /files/keywords             /posts/tags -->
 <!--forward     /files/search               /posts/keywords -->
 <!--forward     /endpoint/files             /api/posts -->
-<!--forward     /endpoint/file/:param2      /api/post/:param2 -->
+<!--forward     /endpoint/file/:post        /api/post/:post -->
 <!--forward     /endpoint/files/categories  /api/posts/folders -->
 <!--forward     /endpoint/files/keywords    /api/posts/tags -->
 <!--forward     /endpoint/files/search      /api/posts/keywords -->
