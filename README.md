@@ -23,3 +23,5 @@
 <!--forward     /endpoint/keywords          /api/tags -->
 <!--forward     /endpoint/categories        /api/folders -->
 <!--forward     /file/*param3               /*param3 -->
+<!--forward     /file/*param4/:param5       /*param4/:param5 -->
+<!--forward     /file/:param6/*param7       /:param6/*param7 -->
