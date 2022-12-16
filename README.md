@@ -27,3 +27,6 @@
 <!--forward     /file/:param6/*param7       /:param6/*param7 -->
 
 <!--redirect /rd/to/:site https://www.:site?q=AI -->
+
+<!--lang zh-CN -->
+<!--lang en -->
