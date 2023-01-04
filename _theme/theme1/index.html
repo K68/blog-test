@@ -16,8 +16,8 @@
     <div data-th-utext="#{hello.world(${model.path})}"><h1>Let's GO!</h1></div>
     <div data-th-utext="${allTags}"></div>
     <div data-th-utext="${allFolders}"></div>
-    <div class="markdown-body" data-th-utext="${postsJson}"></div>
-    <p data-th-text="'Hello, ' + ${name} + '!'"></p>
+    <div class="markdown-body" data-th-utext="${model.rawHtml}"></div>
+    <p data-th-text="'Hello, ' + ${model.name} + '!'"></p>
     <p data-th-text="'Hello, ' + ${model.path} + '!'"></p>
     <p data-th-text="#{peace}">111</p>
     <p data-th-text="#{country}">222</p>
